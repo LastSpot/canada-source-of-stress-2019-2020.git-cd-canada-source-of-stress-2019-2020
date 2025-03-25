@@ -57,7 +57,7 @@ These counterintuitive findings suggest that as people accumulate more responsib
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/lastspot/canada-source-of-stress-2019-2020.git
+   git clone https://github.com/LastSpot/canada-source-of-stress-2019-2020.git
    cd canada-source-of-stress-2019-2020
    ```
 
